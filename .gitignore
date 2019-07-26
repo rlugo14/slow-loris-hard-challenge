@@ -151,4 +151,6 @@ tags
 # Ignore all local history of files
 .history
 
+### Build folder
+build/
 # End of https://www.gitignore.io/api/vim,sublimetext,intellij+all,visualstudiocode
